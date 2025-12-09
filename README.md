@@ -1,9 +1,12 @@
 Kuir's Supermarket Sales Dashboard 2024 - Excel Project
+
 📊 Project Overview
 This Excel project contains a comprehensive sales dashboard and supporting data analysis for Kuir's Supermarket for the year 2024. The project includes multiple worksheets with sales data, pivot tables for analysis, and a dashboard for visualizing key performance metrics.
 
+
 📁 File Structure
 The Excel workbook (Excel Project Two.xlsx) contains the following worksheets:
+
 
 Data Worksheets
 Sheet1: Raw transaction data with detailed sales records
